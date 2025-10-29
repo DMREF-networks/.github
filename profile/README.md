@@ -6,4 +6,4 @@ This is the space where members of our DMREF collaboration work on writing and s
 
 [YouTube Channel](https://www.youtube.com/@DMREFnetworks)
 
-[Archive of all Configurations])(http://datadryad.org/stash/share/osDgx_hVwY7rygGnZDr01Qr-YZsnnv-xLiJshwIsD_s)
+[Archive of all Configurations](http://datadryad.org/stash/share/osDgx_hVwY7rygGnZDr01Qr-YZsnnv-xLiJshwIsD_s)
