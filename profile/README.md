@@ -11,7 +11,7 @@ Micro-lattice and nano-lattice structures are an exciting class of materials wit
 * J. V. Raj, X. Sun, C. E. Maher, K. A. Newhall, M. A. Porter. Local geometric and transport properties of networks that are generated from hyperuniform point patterns.  [Preprint](https://arxiv.org/abs/2511.21082)
 * C. Wang, C. E. Maher, K. A. Newhall. Effect of Local Topological Changes on Resistance in Tunably-Disordered Networks. [Preprint](https://arxiv.org/abs/2602.04684)
 * C. E. Maher, J. L. Marzuola, K. A. Newhall. Probing the influence of topological and geometric disorder on the spectrum of the differential Laplacian operator on networks. [Preprint](https://arxiv.org/abs/2602.22341)
-* K. Moody, M. Li, C. Maher, K. Lee, T. Horn, K. Newhall, R. Hurley, K. Daniels, C. Rock. "Christopher RockA Methodology for Manufacturing 3D Disordered Metamaterials Using Laser Powder Bed Fusion from Granular Packings and Hyperuniform Point Clouds." [Preprint](https://engrxiv.org/preprint/view/5865)
+* K. Moody, M. Li, C. E. Maher, K. Lee, T. Horn, K. Newhall, R. Hurley, K. Daniels, C. Rock. "A Methodology for Manufacturing 3D Disordered Metamaterials Using Laser Powder Bed Fusion from Granular Packings and Hyperuniform Point Clouds." [Preprint](https://engrxiv.org/preprint/view/5865)
 
 
 ## Resources
