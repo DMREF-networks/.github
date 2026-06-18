@@ -17,5 +17,5 @@ Micro-lattice and nano-lattice structures are an exciting class of materials wit
 ## Resources
 
 * [YouTube Channel](https://www.youtube.com/@DMREFnetworks)
-* [Search Interface](https://dmref-networks.github.io/disordered-configurations/) for finding configurations (point clouds, adjacency matrics) in our database
+* [Search Interface](https://dmref-networks.github.io/disordered-configurations/) for finding configurations (point clouds, adjacency matrices) in our database
 * [Globus Archive](https://app.globus.org/file-manager?origin_id=c143ddca-ef0c-400e-82f7-741345c7e5a8&origin_path=%2F) containing all configurations and STL files (see Search Interface for easier access)
