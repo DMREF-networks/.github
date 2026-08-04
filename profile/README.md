@@ -13,6 +13,7 @@ Micro-lattice and nano-lattice structures are an exciting class of materials wit
 * C. E. Maher, J. L. Marzuola, K. A. Newhall. Probing the influence of topological and geometric disorder on the spectrum of the differential Laplacian operator on networks. [[Preprint]](https://arxiv.org/abs/2602.22341)
 * K. Moody, M. Li, C. E. Maher, K. Lee, T. Horn, K. Newhall, R. Hurley, K. Daniels, C. Rock. A Methodology for Manufacturing 3D Disordered Metamaterials Using Laser Powder Bed Fusion from Granular Packings and Hyperuniform Point Clouds. [[Preprint]](https://engrxiv.org/preprint/view/5865)
 * K. Lee, C. E. Maher, K. A. Newhall, R. C. Hurley. Mechanism of Band Gap Formation in Beam Networks. [[Preprint]](https://arxiv.org/abs/2606.24860)
+* K. Moody, C. E. Maher, B. G., and C. Rock. Characteristics of Immiscible Alloy Systems Using Advanced Manufacturing Processes and Spatial Statistics in *Proceedings of the 11th International Symposium on Superalloy 718 and Derivatives*, E. A. Ott et al. (eds.). (The Minerals, Metals & Materials Society, 2026) [[Proceedings]]https://doi.org/10.1007/978-3-032-35176-0_16
 
 
 ## Resources
